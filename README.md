@@ -1,9 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18434209&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
-
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
@@ -18,13 +16,15 @@ Key Contributions:
 The promotion of using clear control structures such as if, while, and for loops instead of GOTO statements.
 The introduction of modularization and top-down design.
 Impact: This milestone led to more organized, maintainable, and understandable code. It set the foundation for future programming paradigms and best practices in software design and development.
+
 2. The Introduction of the Software Engineering Discipline (1968)
 Milestone: The term "Software Engineering" was formally introduced at the 1968 NATO Software Engineering Conference. The growing complexity of software systems during the space race and other large technological projects necessitated a more disciplined approach to software development.
 Key Contributions:
 The establishment of software engineering as a formal discipline, distinct from hardware engineering.
 The introduction of fundamental concepts like requirements engineering, design, testing, and maintenance.
 Impact: This milestone helped elevate software development to a recognized profession, encouraging the creation of methodologies, tools, and processes to manage the complexity of software systems.
-3. The Rise of Agile Methodologies (1990s–2000s)
+
+4. The Rise of Agile Methodologies (1990s–2000s)
 Milestone: The 1990s saw a dramatic shift in software development methodologies with the emergence of Agile practices. Agile emphasized iterative development, collaboration, and adaptability over rigid processes and documentation. The publication of the Agile Manifesto in 2001 further formalized these principles.
 Key Contributions:
 The shift from waterfall models (where each phase is completed sequentially) to iterative and incremental development.
@@ -48,12 +48,10 @@ waterfall methodology - Linear and sequential, each phase is completed before mo
  - Customer feedback comes late, after the product is developed.
  - Testing is done at the end of the development process.
 
-
 agile methodology - Iterative and incremental, with multiple cycles (sprints). 
 - High flexibility, adapts to changing requirements. 
 - Regular customer feedback is incorporated into every sprint. 
 - Testing is continuous and done after each iteration.
-
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer - developing applications,programs and systems using programming languages and frameworks.
@@ -113,7 +111,6 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 - Whether the software meets the needs of the end-user and is ready for deployment.
 
 #Part 2: Introduction to AI and Prompt Engineering
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 Importance:
